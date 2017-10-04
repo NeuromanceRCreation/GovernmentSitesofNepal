@@ -1,47 +1,47 @@
-URL,Description
+URL,Name
 http://acourt.gov.np,Supreme Court of Nepal
 http://adbl.gov.np,Agriculture Development Bank Limited
 http://adblremit.gov.np,
 http://aepc.gov.np,Alternative Energy Promotion Centre
 http://ahd.gov.np, Department of Livestock Services- Directorate of Animal Health
-http://aicc.gov.np,
-http://amargadhimun.gov.np,
-http://anantalingeshwormun.gov.np,
-http://anbukhairenimun.gov.np,
-http://apf.gov.np,
-http://api.dofe.gov.np,
-http://apimun.gov.np,
-http://apps.doind.gov.np,
-http://attariyamun.gov.np,
-http://attorneygeneral.gov.np,
-http://backupserver.supremecourt.gov.np,
-http://badimalikamun.gov.np,
-http://baglungmun.gov.np,
-http://bagmati.gov.np,
-http://bangangamun.gov.np,
-http://bardghatmun.gov.np,
-http://bardibasmun.gov.np,
-http://bedkotmun.gov.np,
+http://aicc.gov.np, Agriculture Information and Communication Center
+http://amargadhimun.gov.np, Amargadhi Municipality
+http://anantalingeshwormun.gov.np, Anantalingeshwor Municipality
+http://anbukhairenimun.gov.np, Anbukhaireni Municipality
+http://apf.gov.np, Armed Police Force
+http://api.dofe.gov.np, Department of Foreign Employment API
+http://apimun.gov.np, Mahakali Municipality
+http://apps.doind.gov.np, Department of Industry apps
+http://attariyamun.gov.np, Attariya Municipality 
+http://attorneygeneral.gov.np, Office of Attorneygeneral
+http://backupserver.supremecourt.gov.np, Supreme Court of Nepal BackupServer 
+http://badimalikamun.gov.np, Badimalika Municipality
+http://baglungmun.gov.np, Baglung Municipality
+http://bagmati.gov.np, High Powered Committee for Integrated Development of the Bagmati Civilization
+http://bangangamun.gov.np, Banganga Municipality
+http://bardghatmun.gov.np, Bardghat Municipality
+http://bardibasmun.gov.np, Bardibas Municipality
+http://bedkotmun.gov.np, Bedkot Municipality
 http://belahia.nepalimmigration.gov.np,
-http://belbarimun.gov.np,
-http://benimun.gov.np,
-http://bhojpurmun.gov.np,
-http://bhp.gov.np,
+http://belbarimun.gov.np, Belbari Municipality
+http://benimun.gov.np, Beni Municipality
+http://bhojpurmun.gov.np, Bhojpur Municipality
+http://bhp.gov.np, Budhi Ganga Hydropower Project
 http://birganj.nepalimmigration.gov.np,
-http://bolpatra.gov.np,
-http://brch.dhm.gov.np,
-http://budhanilkanthamun.gov.np,
-http://butwalmun.gov.np,
+http://bolpatra.gov.np, National Portal for e-Procurement
+http://brch.dhm.gov.np, Pilot Program for Climate Resilience (Building Resilience to Climate-Related Hazards)
+http://budhanilkanthamun.gov.np, Budhanilkantha Municipality
+http://butwalmun.gov.np, Butwal Sub-Metropolitan City 
 http://can.gov.np,
-http://caqo.gov.np,
-http://cbs.gov.np,
-http://ccwb.gov.np,
-http://cfgorrp.dhm.gov.np,
-http://cgas.fcgo.gov.np,
-http://chainpurmun.gov.np,
-http://chd.gov.np,
-http://chrdu.gov.np,
-http://chureboard.gov.np,
+http://caqo.gov.np, Central Animal Quarantine
+http://cbs.gov.np, Central Bureau of Statistics
+http://ccwb.gov.np, Central Child Welfare Board
+http://cfgorrp.dhm.gov.np, Community Based Flood and Glacial Lake Outbrust Risk Reduction Project 
+http://cgas.fcgo.gov.np, Computerized Government Accounting System
+http://chainpurmun.gov.np, Chainpur Municipality
+http://chd.gov.np, Child Health Division
+http://chrdu.gov.np, 
+http://chureboard.gov.np, President Chure-Terai Madhesh Conservation Development Board
 http://ciaa.gov.np,
 http://cib.nepalpolice.gov.np,
 http://cid.nepalpolice.gov.np,
@@ -228,7 +228,7 @@ http://etax.ird.gov.np,
 http://etbregister.nepalntp.gov.np,
 http://event.gov.np,
 http://excisereturns.ird.gov.np,
-http://fcgo.gov.np,
+http://fcgo.gov.np, Financial Controller General Office
 http://feims.dofe.gov.np,
 http://feims.gov.np,
 http://fepb.gov.np,
@@ -322,6 +322,7 @@ http://lmdbidding.gov.np,
 http://lmtc.gov.np,
 http://lpc.gov.np,
 http://lumbinidevtrust.gov.np,
+http://mahakalimundarchula.gov.np,
 http://mahamanjushreenagarkotmun.gov.np,
 http://mars.kathmandu.gov.np,
 http://mbanking.adbl.gov.np,
